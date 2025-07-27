@@ -1,4 +1,4 @@
-### Посібник користувача: Ticker Link Enhancer
+### Посібник користувача: Ticker Link Enhancer - розширення для браузера Chrome
 
 #### Вступ
 
